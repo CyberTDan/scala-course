@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/daniil/study/folder_reader/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecursiveTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/daniil/study/folder_reader/target/scala-2.13/classes/RecursiveTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecursiveTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/daniil/study/folder_reader/target/scala-2.13/classes/RecursiveTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
